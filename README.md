@@ -1,11 +1,5 @@
 📊 E-commerce Analytics Dashboard
 
-📝 Description
-
-Ce projet consiste en un tableau de bord Power BI complet dédié à l'analyse de données e-commerce.*
-
-L'objectif est de transformer des données transactionnelles brutes en insights exploitables pour piloter la performance commerciale, suivre les ventes en temps réel et optimiser la gestion des clients et des stocks.
-
 🚀 Fonctionnalités Clés
 
 Le dashboard s'articule autour de plusieurs axes stratégiques :
