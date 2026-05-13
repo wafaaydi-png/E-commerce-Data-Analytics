@@ -6,13 +6,17 @@ L’objectif principal est de fournir une vue claire et dynamique des revenus, d
 
 Le dashboard est structuré en trois pages principales :
 
+
 📦 Vue Globale
+
 🛍️ Analyse Produit
+
 👥 Analyse Client
 
 Chaque page permet d’explorer les données selon différents axes grâce à des filtres interactifs, des KPI visuels, et plusieurs types de graphiques.
 
 🏠 1. Vue Globale
+
 🎯 Objectif
 
 Offrir une vision synthétique des performances générales de l’activité commerciale.
@@ -29,7 +33,9 @@ Identification des clients les plus rentables.
 Comparaison des performances des produits.
 📅 Filtre temporel (Date)
 Analyse dynamique par période.
+
 📦 2. Analyse Produit
+
 🎯 Objectif
 
 Évaluer la performance commerciale des produits et des catégories.
@@ -50,7 +56,9 @@ Maison connectée
 Identifier les produits les plus vendus
 Détecter les catégories les plus rentables
 Optimiser la stratégie produit
+
 👥 3. Analyse Client
+
 🎯 Objectif
 
 Comprendre le profil et le comportement des clients.
@@ -72,6 +80,7 @@ Localisation des clients.
 📊 Power BI Desktop
 🧹 Power Query
 🧮 DAX (Data Analysis Expressions)
+
 🚀 Compétences mises en pratique
 
 ✅ Nettoyage et transformation des données
