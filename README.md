@@ -1,38 +1,83 @@
-📊 E-commerce Analytics Dashboard
+📊 Dashboard d’Analyse des Ventes | Power BI
+📝 Description du projet
 
-🚀 Fonctionnalités Clés
+Ce projet consiste en la conception d’un tableau de bord interactif Power BI dédié à l’analyse des performances d’une activité e-commerce.
+L’objectif principal est de fournir une vue claire et dynamique des revenus, des produits, et du comportement des clients afin d’aider à la prise de décision stratégique.
 
-Le dashboard s'articule autour de plusieurs axes stratégiques :
+Le dashboard est structuré en trois pages principales :
 
-Analyse des Ventes : Visualisation du chiffre d'affaires, des volumes de commandes et de la croissance temporelle.
+📦 Vue Globale
+🛍️ Analyse Produit
+👥 Analyse Client
 
-Performance Produits : Identification des meilleures ventes et des catégories les plus rentables.
+Chaque page permet d’explorer les données selon différents axes grâce à des filtres interactifs, des KPI visuels, et plusieurs types de graphiques.
 
-Segmentation Client : Analyse du comportement d'achat et de la répartition géographique.
+🏠 1. Vue Globale
+🎯 Objectif
 
-Analyse Temporelle : Comparaison des performances (Year-over-Year, Month-over-Month) pour détecter les tendances saisonnières.
+Offrir une vision synthétique des performances générales de l’activité commerciale.
 
+📌 Indicateurs clés (KPI)
+💰 Revenu total
+👥 Nombre total des clients
+📊 Visualisations incluses
+🗺️ Répartition du revenu par ville
+Analyse géographique des ventes.
+👤 Revenu total par nom et âge client
+Identification des clients les plus rentables.
+📦 Distribution du revenu par produit
+Comparaison des performances des produits.
+📅 Filtre temporel (Date)
+Analyse dynamique par période.
+📦 2. Analyse Produit
+🎯 Objectif
 
-🛠️ Stack Technique
+Évaluer la performance commerciale des produits et des catégories.
 
-Outil de BI : Power BI Desktop.
+📌 Indicateurs clés
+📦 Total produits
+📊 Visualisations incluses
+📈 Revenu par produit
+Classement des produits selon leur chiffre d’affaires.
+🏷️ Répartition par catégorie produit
+Nombre de produits par catégorie :
+Accessoires
+Audio
+Informatique
+Maison connectée
+📅 Filtre par date
+🔍 Insights possibles
+Identifier les produits les plus vendus
+Détecter les catégories les plus rentables
+Optimiser la stratégie produit
+👥 3. Analyse Client
+🎯 Objectif
 
-Thème visuel : Utilisation du thème "Innovate" pour une interface moderne et épurée.
+Comprendre le profil et le comportement des clients.
 
-Modélisation : Schéma en étoile avec des relations optimisées pour la performance.
+📌 Indicateurs clés
+👥 Total des clients
+📊 Visualisations incluses
+⚧ Répartition par sexe
+Analyse démographique Homme/Femme.
+🧾 Distribution des transactions par client
+Clients les plus actifs.
+💰 Revenu par nom et âge client
+Analyse de la contribution individuelle.
+🌍 Client par région (Carte géographique)
+Localisation des clients.
+🏙️ Filtre par ville
+📅 Filtre par date
+🛠️ Outils utilisés
+📊 Power BI Desktop
+🧹 Power Query
+🧮 DAX (Data Analysis Expressions)
+🚀 Compétences mises en pratique
 
+✅ Nettoyage et transformation des données
+✅ Modélisation des données
+✅ Création de KPI
+✅ Design de dashboards interactifs
+✅ Analyse exploratoire
+✅ Storytelling avec les données
 
-Langages :
-
-DAX : Pour les mesures calculées complexes et les indicateurs de performance (KPI).
-
-
-Power Query (M) : Pour le nettoyage et la transformation des données (ETL).
-
-
-
-
-
-Des tables de faits (Transactions/Commandes).
-
-Des tables de dimensions (Produits, Calendrier, Clients, Géographie).
