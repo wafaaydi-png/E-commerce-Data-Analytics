@@ -1,93 +1,98 @@
-📊 Dashboard d’Analyse des Ventes | Power BI
+# 📊 Dashboard Analyse des Ventes | Performance Commerciale avec Power BI
 
-📝 Description du projet
+## 📌 Présentation du projet
 
-Ce projet consiste en la conception d’un tableau de bord interactif Power BI dédié à l’analyse des performances d’une activité e-commerce.
-L’objectif principal est de fournir une vue claire et dynamique des revenus, des produits, et du comportement des clients afin d’aider à la prise de décision stratégique.
+Ce projet consiste en la création d’un **dashboard interactif sous Power BI** dédié à l’analyse des performances d’une activité e-commerce à travers plusieurs dimensions : revenus, produits et comportement client.
 
-Le dashboard est structuré en trois pages principales :
+L’objectif est de transformer les données commerciales en **informations claires, visuelles et exploitables** afin d’aider à la prise de décision stratégique et d’optimiser la performance globale de l’activité.
 
+---
 
-📦 Vue Globale
+# 📂 Pages du Dashboard
 
-🛍️ Analyse Produit
+## 1️⃣ Vue globale
 
-👥 Analyse Client
+Cette page offre une vision synthétique des performances générales de l’activité commerciale.
 
-Chaque page permet d’explorer les données selon différents axes grâce à des filtres interactifs, des KPI visuels, et plusieurs types de graphiques.
+### KPI principaux
 
-🏠 1. Vue Globale
+- Revenu total
+- Nombre total de clients
 
-🎯 Objectif
+### Analyses disponibles
 
-Offrir une vision synthétique des performances générales de l’activité commerciale.
+- Répartition du revenu par ville
+- Analyse du revenu par client et par âge
+- Distribution du revenu par produit
+- Analyse dynamique selon la période
 
-📌 Indicateurs clés (KPI)
-💰 Revenu total
-👥 Nombre total des clients
-📊 Visualisations incluses
-🗺️ Répartition du revenu par ville
-Analyse géographique des ventes.
-👤 Revenu total par nom et âge client
-Identification des clients les plus rentables.
-📦 Distribution du revenu par produit
-Comparaison des performances des produits.
-📅 Filtre temporel (Date)
-Analyse dynamique par période.
+### Objectif
 
-📦 2. Analyse Produit
+Obtenir rapidement une vue d’ensemble des ventes et identifier les principales tendances commerciales.
 
-🎯 Objectif
+---
 
-Évaluer la performance commerciale des produits et des catégories.
+## 2️⃣ Analyse produit
 
-📌 Indicateurs clés
-📦 Total produits
-📊 Visualisations incluses
-📈 Revenu par produit
-Classement des produits selon leur chiffre d’affaires.
-🏷️ Répartition par catégorie produit
-Nombre de produits par catégorie :
-Accessoires
-Audio
-Informatique
-Maison connectée
-📅 Filtre par date
-🔍 Insights possibles
-Identifier les produits les plus vendus
-Détecter les catégories les plus rentables
-Optimiser la stratégie produit
+Cette page permet d’évaluer la performance commerciale des produits et des différentes catégories.
 
-👥 3. Analyse Client
+### KPI principaux
 
-🎯 Objectif
+- Nombre total de produits
+- Revenu par produit
+- Répartition des produits par catégorie
 
-Comprendre le profil et le comportement des clients.
+### Analyses disponibles
 
-📌 Indicateurs clés
-👥 Total des clients
-📊 Visualisations incluses
-⚧ Répartition par sexe
-Analyse démographique Homme/Femme.
-🧾 Distribution des transactions par client
-Clients les plus actifs.
-💰 Revenu par nom et âge client
-Analyse de la contribution individuelle.
-🌍 Client par région (Carte géographique)
-Localisation des clients.
-🏙️ Filtre par ville
-📅 Filtre par date
-🛠️ Outils utilisés
-📊 Power BI Desktop
-🧹 Power Query
-🧮 DAX (Data Analysis Expressions)
+- Classement des produits selon leur chiffre d’affaires
+- Répartition par catégorie produit
+- Analyse des performances selon la date
+- Comparaison des catégories les plus rentables
 
-🚀 Compétences mises en pratique
+### Objectif
 
-✅ Nettoyage et transformation des données
-✅ Modélisation des données
-✅ Création de KPI
-✅ Design de dashboards interactifs
-✅ Analyse exploratoire
-✅ Storytelling avec les données
+Identifier les produits les plus performants et optimiser la stratégie produit.
 
+---
+
+## 3️⃣ Analyse client
+
+Cette page est dédiée à la compréhension du profil et du comportement des clients.
+
+### KPI principaux
+
+- Nombre total de clients
+- Revenu moyen par client
+- Nombre de transactions par client
+
+### Analyses disponibles
+
+- Répartition des clients par sexe
+- Distribution des transactions par client
+- Analyse du revenu par client et par âge
+- Répartition géographique des clients
+- Analyse par ville et par période
+
+### Objectif
+
+Comprendre les profils clients et identifier les segments les plus rentables.
+
+---
+
+# 🛠️ Outils utilisés
+
+- Power BI Desktop
+- Power Query
+- DAX (Data Analysis Expressions)
+
+---
+
+# 🎯 Résultats attendus
+
+Ce dashboard permet de :
+
+- Suivre les performances commerciales globales
+- Analyser la rentabilité des produits
+- Comprendre le comportement et le profil des clients
+- Identifier les opportunités d’optimisation commerciale
+- Faciliter la prise de décision grâce à des visualisations interactives
